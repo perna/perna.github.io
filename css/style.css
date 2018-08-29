@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster|Doppio+One);
+
+.socicon {
+  font-family: 'socicon' !important;
+  font-size: 2em;
+  transition: color 0.5s ease;
+  color: #a8ae94;
+}
+.socicon:hover {
+  color: #add654;
+}
+
+
+.landing-page {
+  background: #153b41;
+  color: #fff;
+  text-align: center;
+}
+
+.container {
+  margin-top: 4em;
+}
+
+.welcome {
+  font-family: 'Lobster', 'cursive';
+  font-size: 10em;
+  color: #a8ae94;
+}
+
+.my-bio p {
+  font-family: 'Doppio One', 'sans-serif';
+  font-size: 1.3em;
+  color: #fff;
+}
+.my-bio span {
+  font-size: 1.0em;
+}
+.my-bio a,
+.my-bio span {
+  color: #add654;
+  text-decoration: none;
+}
+.my-bio a:hover {
+  text-decoration: underline;
+}
+
+.social-media-icons {
+  margin-top: 1em;
+}
+.social-media-icons li {
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 0.8em;
+}
+.social-media-icons li a {
+  display: block;
+}
